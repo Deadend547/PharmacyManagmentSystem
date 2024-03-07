@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Farmaci\Farmaci\bin\Release\Farmaci.exe.config
+C:\Users\User\source\repos\Farmaci\Farmaci\bin\Release\Farmaci.exe
+C:\Users\User\source\repos\Farmaci\Farmaci\bin\Release\Farmaci.pdb
+C:\Users\User\source\repos\Farmaci\Farmaci\bin\Release\Guna.UI2.dll
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.Administrator.resources
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.AdministratorUC.UC_Dashboard.resources
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.Form1.resources
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.Properties.Resources.resources
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.csproj.CopyComplete
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.exe
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.pdb
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.AdministratorUC.UC_AddUser.resources
+C:\Users\User\source\repos\Farmaci\Farmaci\obj\Release\Farmaci.AdministratorUC.UC_ViewUser.resources
